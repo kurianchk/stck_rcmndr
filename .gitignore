@@ -1,0 +1,6 @@
+/target
+.env
+adk_agent/.venv/
+__pycache__/
+*.pyc
+.DS_Store
